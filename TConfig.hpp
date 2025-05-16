@@ -1,3 +1,15 @@
+
+/**
+ * @file TConfig.hpp
+ * @author Yongjun Choi (chldydwns2014@gmail.com)
+ * @brief
+ * @version 1.0
+ * @date 17-05-2025
+ *
+ * @copyright Copyright (c) 2025
+ *
+*/
+
 #ifndef __TCONFIG_H__
 #define __TCONFIG_H__
 
